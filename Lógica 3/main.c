@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int main()
+#include <locale.h>
+int main(void)
 {
-    int hora_cinema = 20;
-    int hora_atual = 20;
+    setlocale(LC_ALL, "Portuguese");
+
+    int hora_cinema = 30;
+    int hora_atual = 30;
 
     int hora_valida = hora_cinema +30;
 
