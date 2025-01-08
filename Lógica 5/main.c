@@ -25,6 +25,7 @@ int main()
     printf("\nEm que ano nos estamos?\n");
     scanf("%d", &ano_atual);
 
+    ano_nascimento = ano_atual-idade;
 
     printf("\nLegal! então você nasceu em %d.\n", ano_nascimento);
 
