@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736374432 source:c:\users\daniel\onedrive\Área de trabalho\daniel\repositÓrios\logicadeprogramacao\lógica 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
